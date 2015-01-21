@@ -28,7 +28,7 @@ whether busy-time information is available. The email addresses on standard erro
 
 ## Motivation
 
-This is partially an exercise in [Rubinius Actors](http://rubini.us/doc/en/systems/concurrency/). I realize this particular task should different strategy to concurrency. I'll probably rewrite this script later to be more efficient. 
+This is partially an exercise in [Rubinius Actors](http://rubini.us/doc/en/systems/concurrency/). I realize this particular task should use concurrency strategy. I'll probably rewrite this script later to be more efficient. For now, it is just fun.
 
 In general, if care about future of Ruby on new computing frontiers, you should check out [Rubinius X](http://x.rubini.us).
 
