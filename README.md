@@ -4,7 +4,7 @@ This script checks whether [Zonio 3e Calendar Server](https://zonio.net/calendar
 
 ## Usage
 
-Run `availability.rb` and send emails on standard input separated by new lines:
+Run `availability.rb` and send email addresses on standard input separated by new line:
 
     ./availability.rb < EMAILS
 
