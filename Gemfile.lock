@@ -1,0 +1,26 @@
+PATH
+  remote: ../../EEE/lib/eee-rb
+  specs:
+    eee (0.9.1)
+      ri_cal
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    CFPropertyList (2.2.8)
+    facter (2.3.0)
+      CFPropertyList (~> 2.2.6)
+    netrc (0.10.2)
+    ri_cal (0.8.8)
+    rubinius-actor (0.0.2)
+      rubinius-core-api
+    rubinius-core-api (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  eee!
+  facter
+  netrc
+  rubinius-actor
