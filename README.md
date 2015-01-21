@@ -23,7 +23,7 @@ whether busy-time information is available. The email addresses on standard erro
 
 ## Preparation
 
-1. Close this repository
+1. Clone this repository
 2. Run `bundle install`
 
 ## Motivation
